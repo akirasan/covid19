@@ -7,4 +7,6 @@ Cada día a las 20:00 se sale a aplaudir a los balcones, para dar las gracias a 
 - [Castellano: Vídeo *invertido*](https://github.com/akirasan/covid19/blob/master/gracies4_cas_invert.mkv)
 - [Castellano: Vídeo *normal*](https://github.com/akirasan/covid19/blob/master/gracies4_cas_normal.mkv)
 
+También están disponibles en Youtube: https://www.youtube.com/channel/UCMIyANo9tQ3NUsbz1zCOJdw
+
 Realizados mediante software opensource [Olive-editor](https://www.olivevideoeditor.org/).
